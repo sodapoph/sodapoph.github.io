@@ -1,6 +1,11 @@
 body {
   background-color: #FFDFED;
-
+  font: 16px Helvetica, Sans-Serif; 
 }
-  
+
+#logo {
+  vertical-align: middle;
+  max-height: 100%;
+  max-width: 100%;
+}
 
